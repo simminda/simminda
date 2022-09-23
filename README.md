@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simphiwe :smiley:
 - 👀 I’m interested in Java/Python Software Development, Web Development and Tech
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
