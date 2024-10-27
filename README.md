@@ -1,13 +1,19 @@
 # About Me
-- 👋 Hi, I’m Simphiwe :smiley:
-- :dart: I am a feelance Code Reviewer
-- 👀 I’m interested in Java/Python Software Development, Web Development and Tech
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open source projects
 
-<br><br>
-<h3>Languages and Tools</h3>
+- 👋 Hi, I’m Simphiwe 😊
+- 🎯 Freelance Code Reviewer and Python enthusiast
+- 💻 Passionate about Java/Python Software Development, Web Development, and all things tech
+- 🌱 Currently diving into React and building fun projects to grow my skills
+- 🚀 Always eager to collaborate on open-source projects and new challenges
+- 🌍 South Africa-based coder with a global mindset, ready to make an impact!
 
+## My Recent Highlights
+- 🏆 CS50 Graduate and continually learning new frameworks, recently completing CS50P and CS50W
+- 🧑‍🏫 Mentor for coding students, reviewing and guiding projects, with a passion for knowledge sharing
+- 📈 Building my own portfolio of projects and helping small businesses with tech solutions
+
+## Languages and Tools
+<p> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5"
     width="40" height="40" /> </a>
@@ -42,12 +48,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40"
     height="40"/>
 </a>
+</p>
 
+## Interests & Hobbies
+- 🎶 Music enthusiast—enjoying a variety of genres and organizing my own music collection
+- 📚 Learning new languages and frameworks, currently expanding my skills in backend and frontend frameworks
+- 🌱 Experimenting with personal projects and exploring full-stack development
 
-<br><br>
+## Featured Projects
+- 📘 Album Manager: Manage a music collection with Python and tabulate
+- 💰 Commerce: Online classifieds/auctions platform with user authentication
+- 📚 eBookStore: Book management application with SQLite for quick book tracking
+
 
 <h2>Author</h2>
 <blockquote>
-  Simphiwe Ndaba<br>
-  Email: simmi.ndaba@gmail.com
+Simphiwe Ndaba <br>
+📧 simmi.ndaba@gmail.com
 </blockquote>
+💬 Feel free to reach out! Always open to chatting about tech, music, or new project ideas.
+
+
