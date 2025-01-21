@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m Simphiwe 😊
-- 🎯 Freelance Code Reviewer and Python enthusiast
+- 🎯 A Junior Full-Stack Software Engineer
 - 💻 Passionate about Java/Python Software Development, Web Development, and all things tech
 - 🌱 Currently diving into React and building fun projects to grow my skills
 - 🚀 Always eager to collaborate on open-source projects and new challenges
