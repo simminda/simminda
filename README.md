@@ -55,6 +55,14 @@ height="40" /> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40"
     height="40"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    alt="TypeScript"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 ## Interests & Hobbies
