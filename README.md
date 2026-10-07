@@ -66,7 +66,7 @@ height="40" /> </a>
 </p>
 
 ## Interests & Hobbies
-- 🎶 Music enthusiast—enjoying a variety of genres and organizing my own music collection
+- 🎶 Music enthusiast - enjoying a variety of genres and organizing my own music collection
 - 📚 Learning new languages and frameworks, currently expanding my skills in backend and frontend frameworks
 - 🌱 Experimenting with personal projects and exploring full-stack development
 
